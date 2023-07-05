@@ -1,0 +1,19 @@
+{
+  "name": "first-node-package",
+  "version": "1.0.0",
+  "description": "my fisrt time trying to create a node package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephlarrivy/first-node-package.git"
+  },
+  "author": "josephlarrivy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephlarrivy/first-node-package/issues"
+  },
+  "homepage": "https://github.com/josephlarrivy/first-node-package#readme"
+}
